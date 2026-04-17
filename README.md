@@ -96,6 +96,9 @@ pip install -r requirements.txt
 
 # Run pipeline
 python Main_Pipeline.py
+
+#Server details
+Update Your Server Details in config.py file
 ```
 
 ---
