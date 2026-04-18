@@ -39,7 +39,6 @@ Crypto_Pipeline/
 │
 │── Main_Pipeline.py
 │── config.py
-│── .env
 │── .gitignore
 │── README.md
 ```
